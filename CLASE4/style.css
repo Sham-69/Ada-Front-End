@@ -1,0 +1,119 @@
+.body {
+  background-color: #212121;
+  color: #fafafa;
+}
+
+h1 {
+  text-align: center;
+  font-size: 120px;
+  font-weight: 900;
+}
+p {
+  font-size: 48px;
+  font-weight: 600;
+}
+.nombre {
+  color: pink;
+}
+.html {
+  color: blue;
+}
+.css {
+  color: cyan;
+}
+.operaria {
+  color: brown;
+}
+
+/* Ejercicio3 */
+.titulo_ejer3 {
+  font-size: 40px;
+  font-family: fantasy;
+}
+.autor {
+  color: gray;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.autor a {
+  color: rgb(92, 198, 247);
+  text-decoration: none;
+}
+
+.parrafo {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.parrafo3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+
+/* Ejercicio4 */
+.tamaño1 {
+  font-size: 50px;
+}
+.tamaño2 {
+  font-size: 10px;
+}
+.tamaño3 {
+  font-size: 30px;
+}
+.tamaño4 {
+  font-size: 5px;
+}
+.tamaño5 {
+  font-size: 80px;
+}
+.tamaño6 {
+  font-size: 15px;
+}
+.tamaño7 {
+  font-size: 40px;
+}
+.tamaño8 {
+  font-size: 70px;
+}
+.tamaño9 {
+  font-size: 20px;
+}
+.tamaño10 {
+  font-size: 60px;
+}
+
+/* Ejercicio 5 */
+.derecha {
+  text-align: right;
+}
+
+.izquierda {
+  text-align: left;
+}
+
+.centro {
+  text-align: center;
+}
+
+/* Ejercicio 7 */
+
+.titulo_ejer7 {
+  font-size: 80px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.h2 {
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.texto-negro {
+  color: black;
+}
+
+.texto-blanco {
+  color: white;
+}
+
+/* Ejercicio 8 */
+

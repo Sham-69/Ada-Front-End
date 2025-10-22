@@ -1,0 +1,28 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
+h1 {
+  font-size: 3em;
+}
+h2 {
+  font-size: 2em;
+}
+h3 {
+  font-size: 1em;
+  margin-bottom: 4px;
+}
+
+.fecha {
+  margin-top: 0px;
+  color: grey;
+  font-size: 0.8em;
+}
+
+.monto_salida {
+  color: red;
+}
+
+.monto_ingreso {
+  color: green;
+}
